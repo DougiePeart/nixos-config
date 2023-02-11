@@ -5,7 +5,7 @@
 # |_| |_|\___|_|  |_.__/|___/\__|_|\__,_|_|  \__| \_/\_/ |_| |_| |_|
 #                                                                   
 
-{ config, lib, pkgs, host, ... };
+{ config, lib, pkgs, host, ... }
 
 let
   extra = ''

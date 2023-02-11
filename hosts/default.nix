@@ -68,7 +68,7 @@ in
       };
     };
     modules = [
-      herbstluftwm.nixosModules.default
+      #herbstluftwm.nixosModules.default
       ./thicc
       ./configuration.nix
 
